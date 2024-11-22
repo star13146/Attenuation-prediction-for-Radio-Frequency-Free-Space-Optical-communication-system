@@ -1,0 +1,8 @@
+"Weather.Type","FSO.RMSE..Specific.","FSO.RMSE..General.","FSO.R2..Specific.","FSO.R2..General."
+"Clear",0.78,0.77,0.953,0.966
+"Dust Storm",1.85,1.13,0.947,0.982
+"Fog",0.61,0.62,0.982,0.974
+"Drizzle",0.82,0.65,0.972,0.969
+"Rain",0.77,0.77,0.972,0.972
+"Snow",1.08,0.99,0.969,0.969
+"Showers",0.88,0.82,0.951,0.955
